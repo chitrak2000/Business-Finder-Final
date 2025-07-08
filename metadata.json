@@ -1,0 +1,6 @@
+{
+  "name": "Local Business Finder",
+  "description": "Find local businesses by pincode in South Delhi, Noida, Greater Noida, and Ghaziabad. Enter a pincode to get a list of businesses and their addresses in the area.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
